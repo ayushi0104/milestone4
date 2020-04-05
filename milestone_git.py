@@ -1,9 +1,10 @@
 def fibonaccii(n):
 	if n==1:
-		print ("0")
+		print ("Fibonacci Series :\n0 ")
 	elif n==2:
-		print ("0 1")
+		print ("Fibonacci Series :\n 0 \n 1")
 	elif n>2:
+		print ("Fibonacci Series : \n 0 \n 1 ")
 		first = 0
 		second = 1
 		i=2
