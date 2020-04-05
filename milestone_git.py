@@ -12,3 +12,5 @@ def fibonaccii(n):
 			print(successive)
 			first = second
 			second = successive
+n=int(input("Enter the range : "))
+fibonaccii(n)
